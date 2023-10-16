@@ -90,11 +90,10 @@ I've been learning programming since 2018⌨️</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutPy&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=StdCoutPy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutPy&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+ 
 
 
   
