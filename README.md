@@ -9,7 +9,10 @@
 I've been learning programming since 2018⌨️</div>  
   
 
-- 🔭 I’m currently working on [StdCoutPy](https://github.com/StdCoutPy)  
+- 🔭 I’m currently working on [StdCoutPy](https://github.com/StdCoutPy)
+
+
+- 📚 main direction of web development using django
   
 
 - 🌱 I’m currently learning web programming and Unity  
@@ -21,9 +24,8 @@ I've been learning programming since 2018⌨️</div>
 - 🤔Ask for questions about programming  
   
 
-- 🗣️I can communicate in Russian and English  
+- 🗣️I can communicate in Russian and English
   
-
 <br/>  
 
 
