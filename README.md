@@ -101,7 +101,7 @@
 <a href="https://github.com/https://github.com/StdCoutPy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/></a>  
 
-<a href="https://www.telegram.com/omonovecUriy" target="_blank">
+<a href="https://t.me/TeleraPheR" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=33 alt=telegram style="margin-bottom: 5px;"/>
  
 </a>  
