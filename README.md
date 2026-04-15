@@ -1,32 +1,48 @@
-### Hi there 👋 I'm freelance developer 👨‍💻 
+### 👋 Hi there 
+### 🚀 Fullstack Python/Django Developer & DevOps Engineer
  
 <div align="center">
 <img src="1458589587168896374.gif" align="center" style="width: 100%" />
 </div>  
 
+<br>
 
-### <div align="center">
-I've been learning programming since 2018⌨️</div>  
-  
+Разрабатываю сложные цифровые экосистемы, <br>
+ применяю чистый код, автоматизацию и развертывание "под ключ". 
 
-- 🔭 I’m currently working on [StdCoutPy](https://github.com/StdCoutPy)
+ ### 📈 Опыт и достижения
+*   **Разработка с нуля:** От проектирования БД до настройки сервера в облаке.
+*   **Профессиональный деплой:** Настройка Docker + Nginx с HTTPS.
+*   **Математический бэкграунд:** Опыт написания игровых движков на C++.
+*   **Локализация:** Работа с i18n (мультиязычные сайты на 3+ языка).
+
+---
+
+---
+### 🌟 Флагманский проект: [Modnoe Mesto](https://github.com)
+**AI-Powered Fashion Store** | [Живое демо: modnoemesto.asia](https://modnoemesto.asia)
+*   **AI:** Интеграция мульти-модельного ассистента (OpenAI, Gemini).
+*   **Automation:** Глубокий парсинг Pinterest/Google через сессии.
+*   **Infrastructure:** Docker, Nginx Reverse Proxy, SSL, Linux VPS.
+*   **Geo:** Полная интеграция 2GIS Maps API.
+
+---
+### 🛠 Технический стек
 
 
-- 📚 main direction of fullstack web development using django
-  
-
-- 🌱 I’m currently learning web programming and C++  
-    
-
-- 🤔Ask for questions about programming  
-  
-
-- 🗣️I can communicate in Russian and English
-  
-<br/>  
+| Направление | Стек технологий |
+| :--- | :--- |
+| **Backend** | Python 3.10+, **Django (Middle+ Level)**, DRF, SQLite/PostgreSQL |
+| **AI & Data** | OpenAI API, Gemini, Selenium/BeautifulSoup (Deep Scraping) |
+| **DevOps** | **Docker & Compose**, Nginx, CI/CD logic, Linux Admin (Ubuntu) |
+| **Frontend** | Vanilla JS (AJAX), Tailwind CSS, PWA, **2GIS Maps SDK** |
+| **Integrations** | Telegram API (Bots/Auth), Freedom Pay (Paybox), SMTP Services |
+| **Low-Level** | **C++ / SFML** (Алгоритмы, математика, игровая логика) |
 
 
-## My Skill Set  
+
+
+
 <table width="100%"><tr><td valign="top" width="33%">
 
 
@@ -92,8 +108,9 @@ I've been learning programming since 2018⌨️</div>
  
 </a>  
 
-<br/>  
-
+<br>  <br>  
+---
+"Настраиваю инфраструктуру, которая заставляет код работать на бизнес."
 
 
 
