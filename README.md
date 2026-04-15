@@ -106,8 +106,8 @@
  
 </a>  
 
-<a href="kiborggggggggggg@gmsil.com" target="_blank">
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.width-500.format-webp.webp" width=33 alt=telegram style="margin-bottom: 5px;"/>
+<a href="https://kiborggggggggggg@gmail.com" target="_blank">
+<img src="https://beconnected.esafety.gov.au/pluginfile.php/87852/mod_resource/content/2/images/t38_c2_a1_p1@2x.png" width=33 alt=telegram style="margin-bottom: 5px;"/>
  
 </a>  
 
