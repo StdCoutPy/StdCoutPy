@@ -106,8 +106,11 @@
  
 </a>  
 
-<a href="https://kiborggggggggggg@gmail.com" target="_blank">
-<img src="https://beconnected.esafety.gov.au/pluginfile.php/87852/mod_resource/content/2/images/t38_c2_a1_p1@2x.png" width=80 alt=telegram style="margin-bottom: 5px;"/>
+ 
+</a>  
+
+<a href="mailto:email@example.com">
+<img src="https://beconnected.esafety.gov.au/pluginfile.php/87852/mod_resource/content/2/images/t38_c2_a1_p1@2x.png" width=180 alt=telegram style="margin-bottom: 5px;"/>
  
 </a>  
 
