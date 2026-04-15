@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm freelance developer 👨‍💻 
  
 <div align="center">
-<img src="https://cs8.pikabu.ru/post_img/2016/03/21/11/1458589587168896374.gif" align="center" style="width: 100%" />
+<img src="1458589587168896374.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">
 I've been learning programming since 2018⌨️</div>  
@@ -12,14 +12,11 @@ I've been learning programming since 2018⌨️</div>
 - 🔭 I’m currently working on [StdCoutPy](https://github.com/StdCoutPy)
 
 
-- 📚 main direction of web development using django
+- 📚 main direction of fullstack web development using django
   
 
-- 🌱 I’m currently learning web programming and Unity  
-  
-
-- ⚡ Fun fact: I use underscore over spaces  
-  
+- 🌱 I’m currently learning web programming and C++  
+    
 
 - 🤔Ask for questions about programming  
   
@@ -30,7 +27,7 @@ I've been learning programming since 2018⌨️</div>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 
 
@@ -42,6 +39,8 @@ I've been learning programming since 2018⌨️</div>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+ <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>
 </div>
 
 </td><td valign="top" width="33%">
@@ -75,6 +74,8 @@ I've been learning programming since 2018⌨️</div>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -84,33 +85,15 @@ I've been learning programming since 2018⌨️</div>
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/StdCoutPy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/></a>  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutPy&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
+<a href="https://www.telegram.com/omonovecUriy" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=33 alt=telegram style="margin-bottom: 5px;"/>
  
-
-
-  
+</a>  
 
 <br/>  
 
-  
 
-<br/>  
 
-  
 
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
