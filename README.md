@@ -106,6 +106,11 @@
  
 </a>  
 
+<a href="kiborggggggggggg@gmsil.com" target="_blank">
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.width-500.format-webp.webp" width=33 alt=telegram style="margin-bottom: 5px;"/>
+ 
+</a>  
+
 <br>  <br>  
 ---
 "Настраиваю инфраструктуру, которая заставляет код работать на бизнес."
