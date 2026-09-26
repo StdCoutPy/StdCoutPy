@@ -17,8 +17,8 @@
 ---
 
 ---
-### 🌟 Флагманский проект: [Modnoe Mesto](https://github.com)
-**AI-Powered Fashion Store** | [Живое демо: modnoemesto.asia](https://modnoemesto.asia)
+### 🌟 Флагманский проект: [Modnoe Mesto](https://github.com/StdCoutPy/modnoemesto)
+**AI-Powered Fashion Store** | [бывший домен: modnoemesto.asia]
 *   **AI:** Интеграция мульти-модельного ассистента (OpenAI, Gemini).
 *   **Automation:** Глубокий парсинг Pinterest/Google через сессии.
 *   **Infrastructure:** Docker, Nginx Reverse Proxy, SSL, Linux VPS.
